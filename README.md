@@ -97,7 +97,8 @@ xtitle("Cross-Correlation between x and y", "Lag", "Correlation Value");
 
 ```
 
-Calculation:
+__Calculation:__
+
 <img width="452" height="187" alt="image" src="https://github.com/user-attachments/assets/0da8295e-c556-48c7-bb3b-67aa79b51553" />
 
 
