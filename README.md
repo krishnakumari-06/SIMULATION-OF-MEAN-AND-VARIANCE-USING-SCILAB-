@@ -7,7 +7,7 @@ __EQUIPMENTS NEEDED:__
 
 .Computer with i3 Processor 
 
-.SCI LAB 
+.SCI LA
 
 __ALGORITHM:__
 
